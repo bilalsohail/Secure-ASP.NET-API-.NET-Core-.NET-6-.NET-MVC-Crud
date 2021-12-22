@@ -1,1 +1,1 @@
-# Secure-ASP.NET-API-.NET-Core-.NET-6-.NET-MVC-Crud
+# Secure-ASP.NET-API-.NET-MVC-Crud
